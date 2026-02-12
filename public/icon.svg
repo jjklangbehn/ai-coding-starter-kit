@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#18181b"/>
+  <g transform="translate(96, 80)">
+    <!-- Checkbox 1 - checked -->
+    <rect x="0" y="0" width="56" height="56" rx="12" fill="none" stroke="#22c55e" stroke-width="6"/>
+    <polyline points="12,28 24,40 44,16" fill="none" stroke="#22c55e" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="80" y="12" width="200" height="12" rx="6" fill="#a1a1aa"/>
+    <line x1="80" y1="18" x2="280" y2="18" stroke="#22c55e" stroke-width="3" opacity="0.5"/>
+
+    <!-- Checkbox 2 - checked -->
+    <rect x="0" y="96" width="56" height="56" rx="12" fill="none" stroke="#22c55e" stroke-width="6"/>
+    <polyline points="12,124 24,136 44,112" fill="none" stroke="#22c55e" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="80" y="108" width="160" height="12" rx="6" fill="#a1a1aa"/>
+    <line x1="80" y1="114" x2="240" y2="114" stroke="#22c55e" stroke-width="3" opacity="0.5"/>
+
+    <!-- Checkbox 3 - unchecked -->
+    <rect x="0" y="192" width="56" height="56" rx="12" fill="none" stroke="#a1a1aa" stroke-width="6"/>
+    <rect x="80" y="204" width="240" height="12" rx="6" fill="#fafafa"/>
+
+    <!-- Checkbox 4 - unchecked -->
+    <rect x="0" y="288" width="56" height="56" rx="12" fill="none" stroke="#a1a1aa" stroke-width="6"/>
+    <rect x="80" y="300" width="180" height="12" rx="6" fill="#fafafa"/>
+  </g>
+</svg>
